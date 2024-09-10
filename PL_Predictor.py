@@ -1,4 +1,4 @@
-## Erik Cupsa 
+## Mohamed Ahmed
 ## PL Predictor using scikit-learn to predict from the matches.csv stat sheet containing data from all matches from 2022-2020
 
 import pandas as pd 
